@@ -10,7 +10,7 @@ href="https://www.linkedin.com/in/briannahlopez/">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](Link Pending)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=cc6f777e-4e27-4a9d-a82f-5aeb8e95adc5)
 
 
 <h2>📱Connect with me:</h2>
