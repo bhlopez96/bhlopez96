@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/briannahlopez/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/bhlopez96/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
