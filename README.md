@@ -9,7 +9,7 @@ href="https://www.linkedin.com/in/briannahlopez/">Data Analyst</a>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/bhlopez96/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit/)
  
 - <b>💾Power BI Projects</b>
-  - [Month to Date Food and Beverage Revenue Analysis for Arts Nonprofit](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
+  - [Month to Date Executive Box Office Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2MzMDcyZGMtMzZjNi00M2RhLTkwNTAtNDdjMWEyYzkzOGFkIiwidCI6IjczZjIxYzJjLTJkZDctNDFlMC05ZThiLTE5OGRmNjUyMWZkYSIsImMiOjF9)
 
 <h2>📚Certifications:</h2>
 
