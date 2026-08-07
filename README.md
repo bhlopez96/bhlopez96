@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/briannahlopez/">Data Analyst</a>
 
 - <b>💾SQL Projects</b>
   - [Demonstrating SQL Techniques](https://github.com/bhlopez96/SQL_Techniques)
-  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/bhlopez96/SQL_Techniques)
+  - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/bhlopez96/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit/)
 
 <h2>📚Certifications:</h2>
 
